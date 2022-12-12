@@ -1,4 +1,7 @@
+![DALL·E 2022-12-12 23 45 05 - Cyber Intelligence](https://user-images.githubusercontent.com/11872779/207150962-8f2773c7-3ed0-4054-8d10-69c6e6c02781.png)
+
 # MISP Extractor
+
 
 This code connects to a given MISP (Malware Information Sharing Platform) server and parses a given number of events, writing the IP addresses, URLs, and MD5 hashes found in the events to three separate files.
 
